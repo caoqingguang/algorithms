@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * Created by caoqingguang on 2016/12/22.
+ * LCS 最长公共序列
  */
 public class LcsCheck {
 
